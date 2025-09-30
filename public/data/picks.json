@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "How this brand strategist uses medium to explore ideas, repurpose content, and land clients",
+    "author": "In The medium Handbook by Zulie @ Medium",
+    "image": "/images/languagelab.jpeg",
+    "date": "2d ago"
+  },
+  {
+    "id": 2,
+    "title": "From 'I Have To' to 'I Get To': How Wne Word Change Rewrites Your Brain",
+    "author": "Jud Brewer MD phD",
+    "image": "/images/languagelab.jpeg",
+    "date": "5d ago"
+  },
+  {
+    "id": 3,
+    "title": "Golden Design Lessons from Tokyo Metro",
+    "author": "Linh Nguyen",
+    "image": "/images/languagelab.jpeg",
+    "date": "Sep 3"
+  }
+]
